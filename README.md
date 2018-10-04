@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Challenge](#Challenge)
-* [Demo] (#Demo)
+* [Demo](#Demo)
 
 ## Instructions
 * Click on any card
