@@ -14,6 +14,6 @@
 ## Challenge
 Match cards in less time with less moves.
 
-##Demo 
+## Demo 
 To play the game on Github pages go to https://abdullah-alqahtani.github.io/memorygame/
 
